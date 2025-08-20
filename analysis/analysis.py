@@ -1,5 +1,4 @@
 # analysis/analysis.py
-# Quarterly Retention Analysis (Python)
 # Contact: 22f3001480@ds.study.iitm.ac.in
 
 import math
